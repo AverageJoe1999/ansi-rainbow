@@ -1,0 +1,7 @@
+{
+    "name": "ansi-rainbow",
+    "version": "1",
+    "description": "Send message as rainbow with discord ansi codeblock highlighting feature.",
+    "license": "MIT",
+    "author": "AverageJoe"
+}
